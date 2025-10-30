@@ -11,3 +11,5 @@ This project showcases a dynamic slider built using only vanilla JavaScript, HTM
 https://nishajas291-crypto.github.io/Dynamic-Image-Slider/
 
 
+
+
